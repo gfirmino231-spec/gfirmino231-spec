@@ -1,0 +1,37 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Banner de terminal com o perfil de Gustavo Firmino</title>
+<desc>Mockup de janela de terminal escura mostrando um objeto de código que declara o nome, cargo e stack de Gustavo Firmino</desc>
+
+<rect x="0" y="0" width="1200" height="300" rx="16" fill="#0A1622"/>
+<rect x="0" y="0" width="1200" height="46" rx="16" fill="#081120"/>
+<rect x="0" y="30" width="1200" height="16" fill="#081120"/>
+
+<circle cx="34" cy="23" r="8" fill="#FF5F56"/>
+<circle cx="64" cy="23" r="8" fill="#FFBD2E"/>
+<circle cx="94" cy="23" r="8" fill="#27C93F"/>
+<text x="600" y="29" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="15" fill="#4B6479">perfil.ts</text>
+
+<text x="54" y="90" font-family="Menlo, Consolas, monospace" font-size="20" fill="#3A4D63">1</text>
+<text x="86" y="90" font-family="Menlo, Consolas, monospace" font-size="20"><tspan fill="#C792EA">const</tspan><tspan fill="#D6DEEB"> developer = {</tspan></text>
+
+<text x="54" y="126" font-family="Menlo, Consolas, monospace" font-size="20" fill="#3A4D63">2</text>
+<text x="86" y="126" font-family="Menlo, Consolas, monospace" font-size="20"><tspan fill="#82AAFF">  name</tspan><tspan fill="#D6DEEB">: </tspan><tspan fill="#ADE8B0">"Gustavo Firmino"</tspan><tspan fill="#D6DEEB">,</tspan></text>
+
+<text x="54" y="162" font-family="Menlo, Consolas, monospace" font-size="20" fill="#3A4D63">3</text>
+<text x="86" y="162" font-family="Menlo, Consolas, monospace" font-size="20"><tspan fill="#82AAFF">  role</tspan><tspan fill="#D6DEEB">: </tspan><tspan fill="#ADE8B0">"Full Stack Developer"</tspan><tspan fill="#D6DEEB">,</tspan></text>
+
+<text x="54" y="198" font-family="Menlo, Consolas, monospace" font-size="20" fill="#3A4D63">4</text>
+<text x="86" y="198" font-family="Menlo, Consolas, monospace" font-size="20"><tspan fill="#82AAFF">  stack</tspan><tspan fill="#D6DEEB">: [</tspan><tspan fill="#ADE8B0">"React"</tspan><tspan fill="#D6DEEB">, </tspan><tspan fill="#ADE8B0">"NestJS"</tspan><tspan fill="#D6DEEB">, </tspan><tspan fill="#ADE8B0">"Prisma"</tspan><tspan fill="#D6DEEB">],</tspan></text>
+
+<text x="54" y="234" font-family="Menlo, Consolas, monospace" font-size="20" fill="#3A4D63">5</text>
+<text x="86" y="234" font-family="Menlo, Consolas, monospace" font-size="20"><tspan fill="#82AAFF">  focus</tspan><tspan fill="#D6DEEB">: </tspan><tspan fill="#ADE8B0">"shipping real products"</tspan></text>
+
+<text x="54" y="270" font-family="Menlo, Consolas, monospace" font-size="20" fill="#3A4D63">6</text>
+<text x="86" y="270" font-family="Menlo, Consolas, monospace" font-size="20" fill="#D6DEEB">}</text>
+
+<rect x="98" y="252" width="12" height="24" fill="#7FDBCA">
+  <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+</rect>
+
+<rect x="0" y="0" width="8" height="300" fill="#7FDBCA"/>
+</svg>
