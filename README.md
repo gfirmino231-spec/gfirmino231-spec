@@ -1,4 +1,4 @@
-
+[README (6).md](https://github.com/user-attachments/files/30804380/README.6.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A78BFA&height=200&section=header&text=Gustavo%20Firmino&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
@@ -16,7 +16,7 @@
   "location": "São Paulo, BR",
   "stack": ["React", "TanStack", "NestJS", "Prisma", "TypeORM", "PostgreSQL", "AWS", "SQL"],
   "currentFocus": "construindo produtos full stack e evoluindo em arquitetura",
-  "funFact": "jogo um futebolzin nas horas vagas ⚽"
+  "funFact": "treino PPL + upper body e curto futebol nas horas vagas ⚽"
 }
 ```
 
@@ -38,7 +38,20 @@
 | **GourmetOn** | Landing page de app de delivery com cardápio dinâmico via API | React · Vite · Tailwind CSS · Fetch API |
 | **Library System API** | API RESTful modular para gestão de biblioteca | NestJS · TypeScript · Class Validator |
 
+### 📊 GitHub Stats
 
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=gfirmino231-spec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfirmino231-spec&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
+<img src="https://streak-stats.demolab.com/?user=gfirmino231-spec&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gfirmino231-spec&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
+
+### 🏆 Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=gfirmino231-spec&theme=nord&no-frame=true&row=1&column=6" />
