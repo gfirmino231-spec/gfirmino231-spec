@@ -14,7 +14,7 @@
   "company": "DMK3",
   "education": "Software Engineering @ FIAP (2029)",
   "location": "São Paulo, BR",
-  "stack": ["React", "TanStack", "NestJS", "Prisma", "TypeORM", "PostgreSQL"],
+  "stack": ["React", "TanStack", "NestJS", "Prisma", "TypeORM", "PostgreSQL", "AWS", "SQL"],
   "currentFocus": "construindo produtos full stack e evoluindo em arquitetura",
   "funFact": "treino PPL + upper body e curto futebol nas horas vagas ⚽"
 }
@@ -23,7 +23,7 @@
 ### ⚡ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,ts,js,nestjs,nodejs,postgres,prisma,git,github,docker,figma,vite" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,nestjs,nodejs,postgres,prisma,mysql,aws,git,github,docker,figma,vite" />
 </div>
 
 ### 🚀 Featured Projects
@@ -32,15 +32,29 @@
 |---|---|---|
 | **ÁUREA** | E-commerce premium de moda esportiva feminina | NestJS · Prisma · PostgreSQL · Redis · React · Vite · Tailwind · Mercado Pago |
 | **GB-Shirts** | Marca de roupas fitness femininas (monorepo) | NestJS · TanStack Router · GSAP · Three.js · Framer Motion |
-| **OrbitWatch** | Plataforma de alerta antecipado para queimadas e enchentes (FIAP Global Solution) | React · ESP32 · MQTT · FIWARE |
-| **Trello Clone** | Estudo de gerenciamento de projetos estilo Kanban | React · NestJS · Prisma · GraphQL |
-| **Meteora** | E-commerce de moda, meu primeiro projeto full stack | React · NestJS · GraphQL · Supabase |
+| **Meteora** | E-commerce full stack em monorepo, com GraphQL como única camada de comunicação | NestJS · GraphQL · Prisma · PostgreSQL (Supabase) · React · Apollo Client |
+| **Trello Clone** | Gerenciador de tarefas estilo Kanban, com autenticação JWT | React · NestJS · Prisma · PostgreSQL · JWT Auth |
+| **OrbitWatch** | Plataforma de monitoramento climático via satélite (FIAP Global Solution) | React · Vite · CSS Modules · React Router |
+| **GourmetOn** | Landing page de app de delivery com cardápio dinâmico via API | React · Vite · Tailwind CSS · Fetch API |
+| **Library System API** | API RESTful modular para gestão de biblioteca | NestJS · TypeScript · Class Validator |
 
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gfirmino231-spec&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfirmino231-spec&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=gfirmino231-spec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfirmino231-spec&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
+<img src="https://streak-stats.demolab.com/?user=gfirmino231-spec&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gfirmino231-spec&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
+
+### 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=gfirmino231-spec&theme=nord&no-frame=true&row=1&column=6" />
 </div>
 
 ### 🔗 Conecte-se comigo
@@ -49,4 +63,8 @@
 <a href="https://linkedin.com/in/gfirmino">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+</div>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=gfirmino231-spec&style=flat&color=A78BFA" alt="profile views"/>
 </div>
