@@ -28,6 +28,14 @@ Sistema web para um projeto do governo de São Paulo. Mexo no front (React com T
 
 Repositório privado, o código é da [DMK3](https://github.com/dmk3-dev).
 
+### [Trello Clone](https://github.com/gfirmino231-spec/Trello-Clone-with-auth-JWT)
+
+Kanban com autenticação JWT completa (access + refresh token com rotação e detecção de reuso), drag & drop persistido no banco e cobertura de testes (10 unitários + 34 e2e).
+
+`React` `TypeScript` `NestJS` `Prisma` `JWT` `Jest`
+
+[Repositório](https://github.com/gfirmino231-spec/Trello-Clone-with-auth-JWT)
+
 ### [Meteora](https://github.com/gfirmino231-spec/Loja-Fullstack)
 
 E-commerce de moda em monorepo. Front e back conversam só por GraphQL, sem REST.
@@ -51,7 +59,6 @@ Monitoramento climático via satélite, feito para a Global Solution da FIAP. Te
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| **[Trello Clone](https://github.com/gfirmino231-spec/Trello-Clone-with-auth-JWT)** | Kanban com login por JWT | React · NestJS · Prisma · PostgreSQL |
 | **[Cadastro de Usuários](https://github.com/gfirmino231-spec/Cadastro-de-usuarios)** | Cadastro e login de usuários | React · NestJS · Prisma · Supabase |
 | **[Library System API](https://github.com/gfirmino231-spec/API-Restfull-w-Nest.js)** | API REST para gestão de biblioteca. O [front está aqui](https://github.com/gfirmino231-spec/Consumindo-api-com-react) | NestJS · TypeScript · class-validator |
 | **[GourmetOn](https://github.com/gfirmino231-spec/Projeto-react-deploy)** | Landing de delivery, cardápio vem de uma API. [Demo](https://projeto-react-deploy.vercel.app) | React · Vite · Tailwind CSS |
